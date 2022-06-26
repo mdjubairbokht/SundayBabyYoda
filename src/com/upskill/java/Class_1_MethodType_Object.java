@@ -2,6 +2,7 @@ package com.upskill.java;
 
 public class Class_1_MethodType_Object {
 	
+	
 	static int hourlyIncome = 65; //instance variable, global variable
 	//Manual QA = 40-55$, Automation QA = 50-70$, SDET = 60-80$
 
